@@ -1,6 +1,8 @@
 function Contact(){
     return (
-        <div>Contact</div>
+        <section id="contact">
+         <form className="form-container">Formulario</form>
+        </section>
     )
 }
 
